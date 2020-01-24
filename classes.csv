@@ -1,0 +1,10 @@
+ID,Nom_ID,Couleur_ID,sID,Nom_sID,Couleur_sID,Couleur_sID_old
+1,Eau,#09aadb,1,Mékong,#24d493,#24d493
+1,Eau,#09aadb,2,"Étang, cours d'eau",#6ba3d3,#09aadb
+1,Eau,#09aadb,3,Rizière,#b0eae9,#ff00c8
+2,Urbain,#ff0000,4,Urbain dense,#ff9e1d,#ff0000
+2,Urbain,#ff0002,6,Industriel,#ba9760,#967a7a
+3,Végétation,#15ff00,7,Forêt,#54b840,#15ff00
+3,Végétation,#15ff01,8,Culture en activité,#b9e15e,#0a7800
+4,Sol nu,#f6ff00,9,Parcelle non-cultivée,#fff89a,#f6ff00
+4,Sol nu,#f6ff00,10,Remblai,#d2d4c9,#d2d4c9
